@@ -1,0 +1,8 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all XLSX files
+*.xlsx
+
+# Ignore all joblib files
+*.joblib
